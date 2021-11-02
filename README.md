@@ -1,41 +1,41 @@
 # Regex Tutorial
 
-[![License](https://img.shields.io/badge/License-MIT-brightgreen)](https://opensource.org/licenses/MIT)
+Introductory paragraph (replace this with your text)
 
-## Description
+## Summary
 
-In this homework assignment I will explain what a regex is and how we can use it.
+Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
 
-## Table Of Contents
+## Table of Contents
 
-- [Install](#installs)
-- [Usage](#usage)
-- [license](#license)
-- [Contributing](#contributing)
-- [Test](#test)
-- [Questions](#questions)
+- [Anchors](#anchors)
+- [Quantifiers](#quantifiers)
+- [Grouping Constructs](#grouping-constructs)
+- [Bracket Expressions](#bracket-expressions)
+- [Character Classes](#character-classes)
+- [The OR Operator](#the-or-operator)
+- [Flags](#flags)
+- [Character Escapes](#character-escapes)
 
-## Installation
+## Regex Components
 
-None
+### Anchors
 
-## Usage
+### Quantifiers
 
-![header image](./images/)
+### Grouping Constructs
 
-## License
+### Bracket Expressions
 
-[![License](https://img.shields.io/badge/License-MIT-brightgreen)](https://opensource.org/licenses/MIT)
+### Character Classes
 
-## Contributing
+### The OR Operator
 
-None
+### Flags
 
-## Tests
+### Character Escapes
 
-None
-
-## Questions
+## Author
 
 [GitHub: willgresham34](https://github.com/willgresham34) <br>
 [Email: willgresham34@gmail.com](mailto:willgresham34@gmail.com)
